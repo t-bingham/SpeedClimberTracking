@@ -22,3 +22,9 @@ This is a checklist for what I need to do and how I plan to do it. As I complete
 - [ ] *Produce an image* of the whole climb without the person in it
 - [ ] Recombine the *traced line and map* of the wall
 - [ ] Write final paper
+
+_**Algorithms used and key points for the report**_
+
+**Algorithms**
+
+**Key points**
