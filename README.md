@@ -25,6 +25,6 @@ This is a checklist for what I need to do and how I plan to do it. As I complete
 
 _**Algorithms used and key points for the report**_
 
-**Algorithms**
+Algorithms:
 
-**Key points**
+Key points:
