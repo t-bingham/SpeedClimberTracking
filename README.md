@@ -18,4 +18,5 @@ This is a checklist for what I need to do and how I plan to do it. As I complete
 2. Use a centroid algorithm to confirm the center
 3. Track this point no matter what
 4. Track a line as the person climbs
-5. Produce an image of the whole climb and the path taken
+5. Produce an image of the whole climb without the person in it
+6. Recombine the traced line and map of the wall
