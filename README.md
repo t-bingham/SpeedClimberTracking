@@ -12,7 +12,7 @@ Climbing is now an **Olympic sport**, finally! With that comes a step up in the 
 
 _**What to do, what to do?**_
 
-This is a checklist for what I need to do and how I plan to do it. As I complete these tasks I will ~~cross them out~~ so I feel good about myself or something.
+This is a checklist for what I need to do and how I plan to do it. As I complete these tasks I will ~~cross them out~~ so I feel good about myself or something and - [x] the -[].
 
 - [ ] Identify a box which *approximates* the center of mass of a person from behind
 - [ ] Use a centroid algorithm to confirm the center
