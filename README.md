@@ -1,6 +1,6 @@
 # My OpenCV project
 
-This is a project built in Python using OpenCV for the University of Canterbury Computer Vision course.
+This is a project built in Python3 using OpenCV for the University of Canterbury Computer Vision course.
 
 _**Final Goal**_
 
