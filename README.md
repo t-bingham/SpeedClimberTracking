@@ -14,9 +14,9 @@ _**What to do, what to do?**_
 
 This is a checklist for what I need to do and how I plan to do it. As I complete these tasks I will ~~cross them out~~ so I feel good about myself or something.
 
-1. Identify a box which *approximates* the center of mass of a person from behind
-2. Use a centroid algorithm to confirm the center
-3. Track this point no matter what
-4. Track a line as the person climbs
-5. Produce an image of the whole climb without the person in it
-6. Recombine the traced line and map of the wall
+-[] Identify a box which *approximates* the center of mass of a person from behind
+-[] Use a centroid algorithm to confirm the center
+-[] Track this point no matter what
+-[] Track a line as the person climbs
+-[] Produce an image of the whole climb without the person in it
+-[] Recombine the traced line and map of the wall
