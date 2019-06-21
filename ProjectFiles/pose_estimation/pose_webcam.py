@@ -34,7 +34,7 @@ def main():
     update_config("experiments/coco/resnet50/256x192_d256x3_adam_lr1e-3.yaml")
     config.TEST.MODEL_FILE = "models/pytorch/pose_coco/pose_resnet_50_256x192.pth.tar"
     ###cap = cv2.VideoCapture(-1)
-    cap = cv2.VideoCapture('vid6.mp4')  # Load the video
+    cap = cv2.VideoCapture('vid4.mp4')  # Load the video
 
 
     # Configure some settings for CUDA.
@@ -104,9 +104,9 @@ def main():
             cv2.circle(image, (x, y), 2, (255, 0, 0), 2)
             keyp.append(right_hip)
 
-            center = sum(keyp)
+            center = (keyp[0] + keyp[1] + 1.5*(keyp[2] + keyp[3]))
 
-            x, y = int(center[0]/4 * x_scale), int (center[1]/4 * y_scale)
+            x, y = int(center[0]/5 * x_scale), int (center[1]/5 * y_scale)
             cv2.circle(image, (x, y), 5, (0, 255, 0), 5)
 
             cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS
